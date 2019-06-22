@@ -1,0 +1,15 @@
+######################################################################################################################################################
+#Page1
+##size: 595x842
+###plain text
+The Project Gutenberg eBook, Jane Eyre, by Charlotte Bronte, Illustratedby F. H. TownsendThis eBook i
+s for the use of anyone anywhere at no cost and withalmost no restrictions whatsoever.  You may copy
+ it, give it away orre-use it under the terms of the Project Gutenberg License includedwith this eBo
+ok or online at www.gutenberg.orgTitle: Jane Eyre       an AutobiographyAuthor: Charlotte BronteRele
+ase Date: April 29, 2007  [eBook #1260]Language: EnglishCharacter set encoding: ISO-646-US \(US-ASCI
+I\***START OF THE PROJECT GUTENBERG EBOOK JANE EYRE***Transcribed from the 1897 Service & Paton edit
+ion by David Price, emailccx074@pglaf.orgJANE EYREAN AUTOBIOGRAPHYBYCHARLOTTE BRONTE_ILLUSTRATED BY 
+F. H. TOWNSEND_LondonSERVICE & PATON
+------------------------------------------------------------------------------------------------------------------------
+###text with position
+<reset:0.0, 0.0>The Project Gutenberg eBook, Jane Eyre, by Charlotte Bronte, <reset:0.0, 0.0>Illustrated<reset:0.0, 0.0>by F. H. Townsend<reset:0.0, 0.0>This eBook is for the use of anyone anywhere at no cost and with<reset:0.0, 0.0>almost no restrictions whatsoever.  You may copy it, give it away or<reset:0.0, 0.0>re-use it under the terms of the Project Gutenberg License included<reset:0.0, 0.0>with this eBook or online at www.gutenberg.org<reset:0.0, 0.0>Title: Jane Eyre<reset:0.0, 0.0>       an Autobiography<reset:0.0, 0.0>Author: Charlotte Bronte<reset:0.0, 0.0>Release Date: April 29, 2007  [eBook #1260]<reset:0.0, 0.0>Language: English<reset:0.0, 0.0>Character set encoding: ISO-646-US \(US-ASCII\<reset:0.0, 0.0>***START OF THE PROJECT GUTENBERG EBOOK JANE EYRE***<reset:0.0, 0.0>Transcribed from the 1897 Service & Paton edition by David Price, <reset:0.0, 0.0>email<reset:0.0, 0.0>ccx074@pglaf.org<reset:0.0, 0.0>JANE EYRE<reset:0.0, 0.0>AN AUTOBIOGRAPHY<reset:0.0, 0.0>BY<reset:0.0, 0.0>CHARLOTTE BRONTE<reset:0.0, 0.0>_ILLUSTRATED BY F. H. TOWNSEND_<reset:0.0, 0.0>London<reset:0.0, 0.0>SERVICE & PATON

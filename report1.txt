@@ -1,0 +1,39 @@
+######################################################################################################################################################
+#Page1
+##size: 595x842
+###plain text
+The Project Gutenberg eBook, Jane Eyre, by Charlotte Bronte, Illustratedby F. H. TownsendThis eBook i
+s for the use of anyone anywhere at no cost and withalmost no restrictions whatsoever.  You may copy
+ it, give it away orre-use it under the terms of the Project Gutenberg License includedwith this eBo
+ok or online at www.gutenberg.orgTitle: Jane Eyre       an AutobiographyAuthor: Charlotte BronteRele
+ase Date: April 29, 2007  [eBook #1260]Language: EnglishCharacter set encoding: ISO-646-US \(US-ASCI
+I\***START OF THE PROJECT GUTENBERG EBOOK JANE EYRE***Transcribed from the 1897 Service & Paton edit
+ion by David Price, emailccx074@pglaf.orgJANE EYREAN AUTOBIOGRAPHYBYCHARLOTTE BRONTE_ILLUSTRATED BY 
+F. H. TOWNSEND_LondonSERVICE & PATON
+------------------------------------------------------------------------------------------------------------------------
+###text state table
+Font                               Position                           Text
+ZCIMYD+Menlo-Regular               <5.0, 10.0>                        The Project Gutenberg eBook, Jane Eyre, by Charlotte Bronte, 
+ZCIMYD+Menlo-Regular               <5.0, 23.0>                        Illustrated
+ZCIMYD+Menlo-Regular               <5.0, 36.0>                        by F. H. Townsend
+ZCIMYD+Menlo-Regular               <5.0, 75.0>                        This eBook is for the use of anyone anywhere at no cost and with
+ZCIMYD+Menlo-Regular               <5.0, 88.0>                        almost no restrictions whatsoever.  You may copy it, give it away or
+ZCIMYD+Menlo-Regular               <5.0, 101.0>                       re-use it under the terms of the Project Gutenberg License included
+ZCIMYD+Menlo-Regular               <5.0, 114.0>                       with this eBook or online at www.gutenberg.org
+ZCIMYD+Menlo-Regular               <5.0, 192.0>                       Title: Jane Eyre
+ZCIMYD+Menlo-Regular               <5.0, 205.0>                              an Autobiography
+ZCIMYD+Menlo-Regular               <5.0, 244.0>                       Author: Charlotte Bronte
+ZCIMYD+Menlo-Regular               <5.0, 296.0>                       Release Date: April 29, 2007  [eBook #1260]
+ZCIMYD+Menlo-Regular               <5.0, 322.0>                       Language: English
+ZCIMYD+Menlo-Regular               <5.0, 348.0>                       Character set encoding: ISO-646-US \(US-ASCII\
+ZCIMYD+Menlo-Regular               <5.0, 387.0>                       ***START OF THE PROJECT GUTENBERG EBOOK JANE EYRE***
+ZCIMYD+Menlo-Regular               <5.0, 465.0>                       Transcribed from the 1897 Service & Paton edition by David Price, 
+ZCIMYD+Menlo-Regular               <5.0, 478.0>                       email
+ZCIMYD+Menlo-Regular               <5.0, 491.0>                       ccx074@pglaf.org
+ZCIMYD+Menlo-Regular               <5.0, 569.0>                       JANE EYRE
+ZCIMYD+Menlo-Regular               <5.0, 582.0>                       AN AUTOBIOGRAPHY
+ZCIMYD+Menlo-Regular               <5.0, 621.0>                       BY
+ZCIMYD+Menlo-Regular               <5.0, 634.0>                       CHARLOTTE BRONTE
+ZCIMYD+Menlo-Regular               <5.0, 660.0>                       _ILLUSTRATED BY F. H. TOWNSEND_
+ZCIMYD+Menlo-Regular               <5.0, 686.0>                       London
+ZCIMYD+Menlo-Regular               <5.0, 699.0>                       SERVICE & PATON
